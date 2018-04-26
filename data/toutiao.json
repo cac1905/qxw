@@ -1,0 +1,58 @@
+{
+	"header": "今日头条",
+	"content": [		
+		{
+		  "title": "【每日话题】年糕经验之谈---盘口赔率并非摆设！",
+		  "src": "innertoutiao1.php",
+		  "meta": " 今天看到出了新的每日话题，谈一谈博彩的攻略，我就感觉自己有不少话要说，正好借此机会来谈一谈体育投注中的盘口赔率。盘口赔率这个话题我曾经开过贴谈过一次，但那已经是很久以前了。"
+		},		
+		{
+		  "title": "HG6686AG电子游戏XIN哥送您9999纯金币",
+		  "src": "innertoutiao2.php",
+		  "meta": "HG铂金认证HG6686AG电子游戏XIN个送金币。AG国际 XIN Gaming 隆重推出“XIN哥来了”老虎机游戏！XIN哥将于活动时间内，在“XIN哥来了”游戏中豪洒9999纯金币。"
+		}		
+	],
+	"imgRight": {
+		"src": [ "images/toutiao-1.png", "images/toutiao-2.jpg", "images/toutiao-3.jpg", "images/toutiao-4.jpg" ]
+	},
+	"imgBottom": [
+		{
+			"src": "images/ad-03.gif"
+		},
+		{
+			"src": "images/ad-03.gif"
+		}
+	],
+	"lists": [
+		{
+			"name": "皇冠",
+			"title": "东南亚博彩市场博华太平洋高级副总裁看好越南",
+			"src": "innertoutiao3.php",
+			"time": "2018/03/25"
+		},
+		{
+			"name": "HG",
+			"title": "滚球必定有进球法则：什么时候进球最多",
+			"src": "innertoutiao4.php",
+			"time": "2018/03/25"
+		},
+		{
+			"name": "皇冠",
+			"title": "赛马投注的领跑者PMU看到亚洲赛马市场的增长",
+			"src": "innertoutiao5.php ",
+			"time": "2018/03/25"
+		},
+		{
+			"name": "皇冠",
+			"title": "西班牙博彩市场调查：球迷对博彩赞助球队没有敌意",
+			"src": "innertoutiao6.php ",
+			"time": "2018/03/25"
+		},
+		{
+			"name": "HG",
+			"title": "巴拉圭批准了有争议的体育博彩垄断许可证",
+			"src": " innertoutiao7.php",
+			"time": "2018/03/25"
+		}
+	]
+}

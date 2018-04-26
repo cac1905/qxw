@@ -1,0 +1,12 @@
+
+@media only screen and (max-width: 767px){
+  #context2 .ui.tabular.menu.same-menu a:last-child{
+    display: none!important;
+  }
+  #context2 .ui[class*="six column"].grid>.column:not(.row), .ui[class*="six column"].grid>.row>.column{
+  	width: 33%!important;
+  }
+  #datazhentidianzong .game{
+	display: none;
+	}
+}

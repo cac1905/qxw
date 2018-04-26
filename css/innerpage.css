@@ -1,0 +1,170 @@
+#useinnerpage {
+	height: 500px;
+}
+
+#usepagecont, #useallpage {
+	padding-bottom: 2em;
+}
+.twelve.wide.column .ui.head, .sixteen.wide.column .ui.head {
+	font-size: 28px;
+	color: #333;
+	font-weight: bold;
+	margin-top: 40px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 30px;
+    text-align: center;
+}
+.sixteen.wide.column .ui.head {
+	text-align: center;
+}
+.sixteen.wide.column .ui.sub-title
+{
+	font-weight: 600;
+	margin: 1em 0;
+}
+.sixteen.wide.column table {
+	border:1px solid #ccc;
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1.8em 0;
+}
+.sixteen.wide.column table td, .sixteen.wide.column table th {
+	border: 1px solid #ccc;
+	text-align: center;
+	height: 2.5rem;
+
+}
+.twelve.wide.column .ui.meta, .sixteen.wide.column .ui.meta {
+	text-align: center;
+	margin-top: 18px;
+}
+#usepagecont .ui.detail {
+	padding: 1em;
+	background: #dcdcdc;
+	font-size: 12px;
+	color: #333;
+	margin-top: 14px; 
+	border: 1px solid #ccc;
+	line-height: 2em;
+}
+#usepagecont .ui.img {
+	text-align: center;	
+}
+#usepagecont .ui.img img {
+	display: inline-block;
+	margin: 2em 0;
+	padding: 10px;
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+}
+#usepagecont .ui.somep p {
+	padding: 0.8em;
+	line-height: 1.8em;
+	text-indent: 2em;
+}
+#usepagecont .ui.divider {
+	border-top: 1px solid #ccc;
+}
+#usepagecont .last span {
+	color: #999;
+}
+#usepagecont .next span {
+	color: #999;
+}
+#usepagecont .last span a {
+	color: #333;
+}
+#usepagecont .next span a {
+	color: #333;
+}
+#usepagecont .bottom > .ui.head {
+	color: #333;
+	font-size: 16px;
+	font-weight: 500;
+	margin-top: 30px;
+	text-align: left;
+}
+#usepagecont .bottom ul {
+	padding: 0;
+}
+#usepagecont .bottom ul.titles li {
+	width: 49%;
+	display: inline-block;
+	padding: 0;
+	line-height: 2em;
+}
+#usepagecont .bottom ul.titles li a {
+	color: #333;
+}
+#usepageside  caption {
+	background: #666;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 700;
+	height: 48px;
+	line-height: 48px;
+}
+#usepageside table {
+	width: 100%;	
+	border-collapse: collapse;
+	margin-bottom: 30px;
+	border: 1px solid #ccc;
+}
+#usepageside .first
+{
+	margin-top:2.5em;
+}
+#usepagecont  .ui.head.profile {
+	text-align: left;
+	font-size: 0;
+}
+#usepagecont .ui.subTitle {
+	font-size: 18px;
+	padding: 10px;
+	border-bottom: 1px solid #bbb;
+	font-weight: 600;
+}
+#usepagecont  .ui.head.profile img {
+	display: inline-block;
+	padding: 1px;
+	width: 55px;
+	height: 55px;
+	border: solid 1px #DDD;
+	vertical-align: middle;
+	margin-right:10px;
+}
+#usepagecont  .ui.head.profile span {
+	display: inline-block;
+	height: 50px;
+	line-height: 50px;
+	background: #f6ad48;
+	color: #fff;
+	width: 100%;
+	font-size: 18px;
+	vertical-align: middle;
+	padding-left:20px;
+}
+#usepageside {
+	padding-right: 0;
+}
+#usepageside table tr.thbg {
+	height: 45px;
+	background: #e5e5e5;
+}
+#usepageside table tr {
+	height: 33px;
+	background-color: #fff;
+	border-top:1px solid #ccc;
+	font-size: 12px;
+}
+#usepageside table tr td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+}
+#usepageside table tr td a {
+	color:#333;
+}

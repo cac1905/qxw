@@ -1,0 +1,299 @@
+/*弹出层的广告开始*/
+.fixed-ad {
+    position: fixed;
+    bottom: 100px;
+    width: 56px;
+    z-index: 1000;
+}
+/*悬浮按钮适配*/
+@media screen and (min-width: 1851px) {
+    .fixed-ad {
+        right:350px;
+    }
+}
+/* css注释：设置了浏览器宽度不小于1201px时.fixed-ad 显示1200px宽度 */
+@media screen and (max-width: 1850px) {
+    .fixed-ad {
+        right:330px;
+    }
+}
+@media screen and (max-width: 1800px) {
+    .fixed-ad {
+        right:320px;
+    }
+}
+/* 设置了浏览器宽度不大于1200px时.fixed-ad 显示900px宽度 */
+@media screen and (max-width: 1750px) {
+    .fixed-ad {
+        right:290px;
+    }
+}
+@media screen and (max-width: 1700px) {
+    .fixed-ad {
+        right:260px;
+    }
+}
+
+/* 设置了浏览器宽度不大于901px时.fixed-ad 显示200px宽度 */
+@media screen and (max-width: 1650px) {
+    .fixed-ad {
+        right:240px;
+    }
+}
+@media screen and (max-width: 1600px) {
+    .fixed-ad {
+        right:210px;
+    }
+}
+@media screen and (max-width: 1550px) {
+    .fixed-ad {
+        right:190px;
+    }
+}
+@media screen and (max-width: 1500px) {
+    .fixed-ad {
+        right:160px;
+    }
+}
+@media screen and (max-width: 1450px) {
+    .fixed-ad {
+        right:140px;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .fixed-ad {
+        right:110px;
+    }
+}
+@media screen and (max-width: 1350px) {
+    .fixed-ad {
+        right:80px;
+    }
+}
+@media screen and (max-width: 1300px) {
+    .fixed-ad {
+        right:60px;
+    }
+
+    @media screen and (max-width: 1250px) {
+        .fixed-ad {
+            right:35px;
+        }
+    }
+    @media screen and (max-width: 1110px) {
+        .fixed-ad {
+            right:15px;
+        }
+    }
+    @media screen and (max-width: 1110px) {
+        .fixed-ad {
+            right:0px;
+        }
+    }
+
+/* 设置了浏览器宽度不大于500px时.fixed-ad 显示100px宽度 */
+.fixed-ad button {
+    outline: none;
+    width: 45px;
+    height: 45px;
+    border: 0;
+}
+
+.fixed-ad .backtoTop {
+    margin-bottom: 5px;
+}
+
+.fixed-ad #to-up-btn {
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    top: -56px;
+    display: none;
+}
+
+.fixed-ad .to-home {
+    margin-bottom: 5px;
+}
+
+.fixed-ad .down-app {
+}
+
+.fixed-ad button.down-app:hover div.scan-code {
+    display: block;
+}
+
+.down-app .scan-code {
+    width: 146px;
+    height: 155px;
+    background: url(../images/scanto-getapp.png);
+    position: absolute;
+    right: 42px;
+    top: 0;
+    display: none;
+    cursor: pointer;
+}
+
+.fixed-ad button {
+    opacity: .9;
+}
+
+.fixed-ad button:hover {
+    opacity: 1;
+}
+
+/*弹出层的广告结束*/
+/*页面icon按钮*/
+/*arrow按钮*/
+.arrow {
+    width: 45px;
+    height: 45px;
+    background-color: #e7e5e5;
+    border-radius: 4px;
+    position: relative;
+}
+
+.arrow span {
+    border-bottom: 18px solid #47515e;
+    box-shadow: 0 26px 0 -9px #47515e;
+    border-radius: 4px;
+    /*margin-top: 20px;*/
+    border-top: 18px dashed transparent;
+    border-left: 15px dashed transparent;
+    border-right: 15px dashed transparent;
+    width: 0;
+    position: absolute;
+    left: 6px;
+    bottom: 21px;
+}
+
+/*plus按钮*/
+.plus {
+    width: 56px;
+    height: 56px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.plus:before {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 32px;
+    background-color: #ccc;
+    left: 27px;
+    top: 11px;
+}
+
+.plus:after {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 1px;
+    background-color: #ccc;
+    left: 12px;
+    top: 27px;
+}
+
+/*home按钮*/
+.home {
+    width: 45px;
+    height: 45px;
+    background-color: #e7e5e5;
+    border-radius: 4px;
+    position: relative;
+}
+
+.home span {
+    border-bottom: 20px solid #47515e;
+    /*box-shadow: 0 30px 0 -14px #e7e5e5,0 24px 0 -7px #47515e;*/
+    border-radius: 4px;
+    margin-top: 20px;
+    border-top: 20px dashed transparent;
+    border-left: 20px dashed transparent;
+    border-right: 20px dashed transparent;
+    width: 0;
+    position: absolute;
+    left: 0px;
+    bottom: 19px;
+}
+
+.home span:before {
+    content: '';
+    position: absolute;
+    width: 26px;
+    height: 17px;
+    border-radius: 0 0 3px 3px;
+    background-color: #47515e;
+    left: -13px;
+    top: 20px;
+}
+
+.home span:after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 10px;
+    /*box-shadow: 0 17px 0px -3px;*/
+    background-color: #e7e5e5;
+    left: -3px;
+    top: 27px;
+}
+
+/*app按钮*/
+.app {
+    width: 45px;
+    height: 45px;
+    background-color: #e7e5e5;
+    border-radius: 4px;
+    position: relative;
+}
+
+.app span {
+    width: 24px;
+    height: 40px;
+    position: absolute;
+    background-color: #e7e5e5;
+    border-top: 5px solid #47515e;
+    border-bottom: 8px solid #47515e;
+    border-left: 3px solid #47515e;
+    border-right: 3px solid #47515e;
+    border-radius: 4px;
+    left: 8px;
+    top: 1px;
+}
+
+.app span:before {
+    content: '';
+    position: absolute;
+    width: 5px;
+    height: 1px;
+    background-color: #c7c7ca;
+    left: 7px;
+    top: -3px;
+}
+
+.app span:after {
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: #c7c7ca;
+    border-radius: 3px;
+    left: 8px;
+    top: 29px;
+}
+
+.app span i {
+    font-style: normal;
+    color: #fff;
+    font-size: 12px;
+    width: 38px;
+    height: 16px;
+    background: #47515e;
+    position: absolute;
+    border-radius: 4px;
+    text-align: center;
+    left: -10px;
+    top: 5px;
+}
+

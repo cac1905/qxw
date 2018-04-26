@@ -1,0 +1,206 @@
+[
+	[
+		[
+			{
+				"title": "真人",
+				"content": [
+					{
+						"meta": "经验",
+						"item": "真人游戏21点赢钱的关键：技巧和资金管理并重",
+						"src": "innerInUse1.php" 
+					},
+					{
+						"meta": "经验",
+						"item": "简单介绍亚洲轮盘和国际轮盘的游戏区别",
+						"src": "innerInUse2.php"
+					},
+					{
+						"meta": "经验",
+						"item": "真人德州扑克想要获胜心理比兵法贯穿始终",
+						"src": "innerInUse3.php"
+					},
+					{
+						"meta": "策略",
+						"item": "真人游戏轮盘赌注码法的价值要善用才能盈利",
+						"src": "innerInUse4.php"
+					},
+					{
+						"meta": "技巧",
+						"item": "运用大数战胜百家乐策略 耐心原则两者不误",
+						"src": "innerInUse5.php"
+					}			
+				]
+			},
+			{
+				"title": "体育",
+				"content": [
+					{
+						"meta": "经验",
+						"item": "在线体育博彩投注中预测的价值和概率分析",
+						"src": "innerInUse6.php"
+					},
+					{
+						"meta": "经验",
+						"item": "体育玩家在线投注的心理分析之可用性偏见",
+						"src": "innerInUse7.php"
+					},
+					{
+						"meta": "经验",
+						"item": "通过概率来投注盈利，先看看庄家的赔率如何...",
+						"src": "innerInUse8.php"
+					},
+					{
+						"meta": "经验",
+						"item": "全面讲解体育博彩投注中提高收益率",
+						"src": "innerInUse9.php"
+					},
+					{
+						"meta": "经验",
+						"item": "体育足球投注中要学会把主场优势量化",
+						"src": "innerInUse10.php"
+					}			
+				]
+			}
+		],
+		[	
+			{
+				"title": "电游",
+				"content": [
+					{
+						"meta": "经验",
+						"item": "在线老虎机游戏盈利最重要的就是降低失败率",
+						"src": "innerInUse11.php"
+					},
+					{
+						"meta": "经验",
+						"item": "老虎机游戏不可破解 需要控制自己的资金",
+						"src": "innerInUse12.php"
+					},
+					{
+						"meta": "策略",
+						"item": "澳门赌场老虎机策略：理智的控制游戏心态",
+						"src": "innerInUse13.php"
+					},
+					{
+						"meta": "经验",
+						"item": "老虎机游戏经验分享：老虎机游戏中要谨慎",
+						"src": "innerInUse14.php"
+					},
+					{
+						"meta": "策略",
+						"item": "玩在线老虎机前期的游戏策略很重要",
+						"src": "innerInUse15.php"
+					}			
+				]
+			},
+			{
+				"title": "综合",
+				"content": [
+					{
+						"meta": "经验",
+						"item": "如何在博彩游戏中提高胜率的心态分享",
+						"src": "innerInUse16.php"
+					},
+					{
+						"meta": "经验",
+						"item": "在线博彩游戏的赢钱经验总结",
+						"src": "innerInUse17.php"
+					},
+					{
+						"meta": "经验",
+						"item": "在网络博彩中选择适合自己的博彩游戏方式",
+						"src": "innerInUse18.php"
+					},
+					{
+						"meta": "知识",
+						"item": "在线博彩无烦忧！请认准正规持牌在线博彩公司！",
+						"src": "innerInUse19.php"
+					},
+					{
+						"meta": "知识",
+						"item": "输赢乃博彩常事！掌握攻守注法则让你赢出彩，输最少！",
+						"src": "innerInUse20.php"
+					}			
+				]
+			}
+		]
+	],
+	[
+		{
+			"title": "相关游戏",
+			"content": [
+				{
+					"name": "百家乐",
+					"src": ""
+				},
+				{
+					"name": "亚洲盘口",
+					"src": ""
+				},
+				{
+					"name": "二十一点",
+					"src": ""
+				},
+				{
+					"name": "三公",
+					"src": ""
+				},
+				{
+					"name": "牛牛",
+					"src": ""
+				},
+				{
+					"name": "色碟",
+					"src": ""
+				},
+				{
+					"name": "温州牌九",
+					"src": ""
+				},
+				{
+					"name": "二八杠",
+					"src": ""
+				}
+
+			]
+		},
+		{
+			"title": "合作平台",
+			"content": [
+				{
+					"src": "./images/qxw-pt1.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt2.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt3.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt4.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt5.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt6.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt7.png",
+					"link": ""
+				},
+				{
+					"src": "./images/qxw-pt8.png",
+					"link": ""
+				}
+
+			]
+		}
+	]	
+]

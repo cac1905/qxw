@@ -1,0 +1,287 @@
+
+/* Some basic formatting */
+code {
+  background-color: #E0E0E0;
+  padding: 0.25em 0.3em;
+  font-family: 'Lato';
+  font-weight: bold;
+}
+.container {
+  padding: 4.3em 0em 1.65em 0;
+}
+.ui.dividing.header,
+.first {
+  margin-top: 5em;
+}
+.ui.dividing.header:first-child {
+  margin-top: 0em;
+}
+h1,
+h3 {
+  margin-top: 10em;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+img + img {
+  margin-top: 0.5em;
+}
+/* Shows content box (not negative margins) */
+.grid {
+  position: relative;
+}
+.grid:before {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #F0F0F0;
+  /*content: '';*/
+  width: calc(100% - 2rem);
+  height: calc(100% - 2rem);
+  box-shadow: 0px 0px 0px 1px #DDDDDD inset;
+}
+.ui.divided.grid:before,
+.celled.grid:before {
+  display: none;
+}
+.ui.aligned .column:after {
+  display: none !important;
+}
+.grid .column:not(.row):not(.grid):after {
+  background-color: rgba(86, 61, 124, .15);
+  box-shadow: 0px 0px 0px 1px rgba(86, 61, 124, 0.2) inset;
+  content: "";
+  display: block;
+  min-height: 50px;
+}
+@media only screen and (max-width: 768px) {
+  .stackable.grid:before {
+    width: 100%;
+    left: 0em;
+  }
+}
+
+.ui.segment{
+  margin: 0!important;
+}
+
+#yhhuodong6686  .ui.grid{
+  margin-bottom: 0;
+}
+#cardOne .image img:hover, #cardTwo .image img:hover{
+  border:1px solid #c86d02;
+}
+#tableWrap .ui.fluid a{
+  color: rgba(0,0,0,.6)!important;
+}
+#tableWrap .ui.fluid:hover a{
+  color: rgba(0,0,0,.8)!important;
+}
+#tableWrap table{
+    width: 100%;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    background: #cccccc;
+}
+#tableWrap table th,td,tr{
+    border: 1px solid #ccc;
+    color: #333;
+    text-align: center;
+}
+   .gunyu-us-menu.ui.grid {
+    height: 322px;
+    background-color: #4c4b4b;
+    margin-top:0;
+   } 
+   .gunyu-us-menu .four.wide.column  {
+    background-color: #333;
+    padding: 0;
+    width: 21.4%!important;
+   }
+   .gunyu-us-menu .ui.grid>[class*="four wide"].column{
+    
+   }
+   .gunyu-us-menu .four.wide.column .menu a.item {
+    height: 58px;
+    width: 100%;
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+  
+    text-align: center;
+   }
+   .gunyu-us-menu .four.wide.column .menu a.item.active {
+    background-color: #4c4b4b;
+    font-weight:  500;
+   }
+   .gunyu-us-menu .ui.vertical.tabular.menu{
+    border-right: 0;
+   }
+   .gunyu-us-menu .ui.menu .item{
+    line-height: 3.9;
+   }
+   .twelve.wide.stretched.column {
+    padding-top: 15px;
+    color: #fff;
+    width: 78%!important;
+   }
+   .twelve.wide.stretched.column h2{
+    text-align: center;
+    font-weight: 500;
+   }
+   .twelve.wide.stretched.column p {
+    text-indent: 2em;
+    line-height: 2em;
+   }
+   .twelve.wide.stretched.column .ui.segment{
+    overflow-y: scroll;
+   }
+   .ui.container.yijian {
+    background-color: #f2f2f2;
+   }
+   .ui.container.yijian {
+    padding: 1.6em 0em 1em 0;
+   }
+
+   /*搜索结果*/
+    .ui.sousuojieguo .ui.line-words  {
+        padding-bottom: 0.3em;
+        border-bottom: 4px solid #333;
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    .ui.container.sousuojieguo
+    {
+      padding: 1.3em 0em 1.65em 0;
+      background-color: #f2f2f2;
+    }
+    .ui.container.sousuojieguo  .ui.line-words a.bo
+    {
+      color: #ff0000;
+    }
+   /* .sousuojieguo .yulecheng {
+      padding: 2em 1em;
+    }*/
+    #zixun-youhui {
+        width: 100%;
+    }
+    #zixun-youhui > a.item
+    {
+      width: 154px;
+      height: 42px;
+      text-align: center;
+      padding: 0 4em;
+      /*font-size: 14px!important;*/
+    }
+    #zixun-youhui > a.item.active
+    {
+      background-color: #333;
+      color: #fff;
+    }
+    .sousuojieguo .ui.pagination.menu
+    {
+      padding-left: 1em;
+    }
+   /* #zixun-youhui-list {
+      margin-left: 1em;
+      margin-right: 1em;
+      border: 1px solid #ccc;
+      margin-top: 1em;
+      padding-left: 1em;
+      padding-top: 1em;
+      padding-right: 1em;
+    }*/
+   /* #zixun-youhui-list .item  .image{
+     !* padding: 0.5em;*!
+      background-color: #fff;
+     !* height: 104px;
+      width: 133px!important;*!
+      border: 1px solid #ccc;
+        height: 100%;
+        width: 20%;
+    }*/
+   /* #zixun-youhui-list .item  .content
+    {
+      padding-top: 0.5em;
+      padding-left: 1.6em;
+    }*/
+    #zixun-youhui-list .item  .content a {
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    #zixun-youhui-list .item{
+      height: 25%;
+      border-bottom: 1px solid #ccc;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    #zixun-youhui-list .item:last-child{
+      border: 0;
+    }
+    .ui.pagination.menu1 .active.item{
+      background-color: #13815d;
+    }
+    .ui.container.sousuojieguo > .ui.breadcrumb {
+        width: 100%;
+    }
+    .ui.container.sousuojieguo > .ui.breadcrumb  .jieguo {
+      float: right;
+      margin-right: 0.5em;
+    }
+    .ui.container.sousuojieguo > .ui .jieguo span{
+      font-weight: 700;
+    }
+
+/*swiper*/
+.swiper-container {
+      width: 100%;
+      height: 100%;
+      
+}
+.swiper-container .swiper-slide img{
+  box-sizing: border-box;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.pic{
+    width: 20%;
+    height: 100%;
+    margin-right: 2%;
+    float: left;
+
+}
+.text_{
+    width: 70%;
+    height: 100%;
+    float: left;
+
+}
+.text_ a{
+    color: black;
+    font-weight: bold;
+}
+.link_pic{
+    cursor: pointer;
+}
+

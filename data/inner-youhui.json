@@ -1,0 +1,71 @@
+{
+	"header": "优惠活动",	
+	"number": "279",
+	"infos": "2000",
+	"content" :[
+		{
+			"imgSrc": "images/youhui-01.jpg",
+			"title": "HG6686 周周返点高达1.2%无上限",
+			"meta": "会员同一地址，同一账户，同一姓名，同一提款账户，同一电话或同一IP等相同者，我们将视为同一人，若会员重复申请账户行为时，本公司保留.取消或收回会员返水红利的权利。",
+			"describe": "周周返点高达1.2%无上限",
+			"number": 150,
+			"href": "innerhuodong1.php"
+		},
+		{
+			"imgSrc": "images/youhui-02.jpg",
+			"title": "新会员首存赠送  30%彩金",
+			"meta": "只要您在HG6686注册成会员后，进行第一次存款就可以得到30%彩金，最高可达8888。",
+			"describe": "新会员首存赠送30%彩金",
+			"number": 160,
+			"href": "innerhuodong2.php"
+		},
+		{
+			"imgSrc": "images/youhui-03.jpg",
+			"title": "再次存款 可获得15%彩金",
+			"meta": "只要您在HG6686进行再次存款（账户余额低于50元），就可以得到15%彩金，最高可达5888。",
+			"describe": "如果在未向客服申请红利之前已经投注，我们将视为您放弃本优惠享有权利。",
+			"number": 190,
+			"href": "innerhuodong3.php"
+		},
+		{
+			"imgSrc": "images/youhui-04.jpg",
+			"title": "连赢送大礼，最高可达88888元",
+			"meta": "在HG6686单项体育项目连续获胜，单场单项玩法多次投注结果计算为一（例：A队有三注相同的注单，结果计算为赢一场，大小球与滚球等不同玩法不计算在内）",
+			"describe": "乐通娱乐发布，乐通娱乐更多优惠",
+			"number": 170,
+			"href": "innerhuodong4.php"
+		},
+		{   
+			"imgSrc": "images/youhui-05.jpg",
+			"title": " 真人视讯 周周返点高达1.0%无上限",
+			"meta": "会员同一地址，同一账户，同一姓名，同一提款账户，同一电话或同一IP等相同者，我们将视为同一人，若会员重复申请账户行为时，本公司保留.取消或收回会员返水红利的权利。",
+			"describe": "永盈会发布，永盈会更多优惠",
+			"number": 180,
+			"href": "innerhuodong5.php"
+		},
+		{
+			"imgSrc": "images/youhui-06.jpg",
+			"title": "MG电子游艺 周周返水2.0%无上限",
+			"meta": "返点为周结算，每周返点将于星期五下午18:00前派发至您的会员账户内。",
+			"describe": "乐通娱乐发布，乐通娱乐更多优惠",
+			"number": 190,
+			"href": "innerhuodong6.php"
+		},
+		{
+			"imgSrc": "images/6686-1.jpg",
+			"title": "新会员首存赠50% 高额红利 等您来拿",
+			"meta": "该活动需全程在MG电子游艺内投注，如未达到活动要求进行转换额度投注体育赛事以及真人娱乐，本公司将扣除所有红利以及赢利。",
+			"describe": "永盈会发布，永盈会更多优惠",
+			"number": 120,
+			"href": "innerhuodong7.php"
+		},
+		{
+			"imgSrc": "images/6686-2.jpg",
+			"title": "MG电子游艺 您的盈利 我们免费送您20%",
+			"meta": "6686会员在进行MG电子游艺，您产生盈利我们免费送您10%或20%，最高可达3888元，双重盈利进行到底！",
+			"describe": "MG电子游艺 您的盈利 我们免费送您20%",
+			"number": 140,
+			"href": "innerhuodong8.php"
+		}
+	]
+}

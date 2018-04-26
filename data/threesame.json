@@ -1,0 +1,164 @@
+[
+	[
+		[
+			{
+				"src": "images/ad-03.gif"
+			},
+			{
+				"src": "images/ad-03.gif"
+			}
+		],
+		{
+			"title": " 优惠活动"
+		},
+		{
+			"left" : {
+				"src": ["images/toutiao-1.png", "images/toutiao-2.jpg", "images/toutiao-3.jpg", "images/toutiao-4.jpg"]
+			},
+			"right" : {
+				"title": "邀请朋友一起畅游HG6686可获得高额奖金提成",
+				"meta": "邀请您的朋友一起畅游HG6686，每邀请一位朋友到（HG6686）可得88彩金，邀请的朋友越多，您可以领取的奖金就越多，如果您可以邀请很多朋友，那么赶快联系我们，加入成我们的合作伙伴，每个月至少给您30%的固定分成。",
+				"content": [
+					{
+						"front": "HG6686",
+						"name": "新会员在MG游戏首存赠50%！高额红利，等您来拿 ",
+						"time": "2018/3/27",
+						"src": "innerhuodong7.php"
+					},
+					{
+						"front": "皇冠",
+						"name": "您的盈利，我们免费送您20%，最高可达3888元，双重盈利进行到底！",
+						"time": "2018/3/31",
+						"src": "innerhuodong8.php"
+					},
+					{
+						"front": "HG6686",
+						"name": "转换额度到MG，笔笔赠送20%",
+						"time": "2018/3/31",
+						"src": "innerhuodong9.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "电子游艺负盈利返还20%，最高可获得5888元",
+						"time": "2018/2/26",
+						"src": "innerhuodong10.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "真人视讯，周周返点高达1.0%无上限",
+						"time": "2018/1/15",
+						"src": "innerhuodong5.php"						
+					}
+				]
+			}
+		}
+	],
+	[
+		[
+			{
+				"src": "images/ad-03.gif"
+			},
+			{
+				"src": "images/ad-03.gif"
+			}
+		],
+		{
+			"title": "行业资讯"
+		},
+		{
+			"left": {
+				"src": ["images/toutiao-1.png", "images/toutiao-2.jpg", "images/toutiao-3.jpg", "images/toutiao-4.jpg"]
+			},
+			"right" : {
+				"title": "邀请朋友一起畅游HG6686可获得高额奖金提成",
+				"meta": "邀请您的朋友一起畅游HG6686，每邀请一位朋友到（HG6686）可得88彩金，邀请的朋友越多，您可以领取的奖金就越多，如果您可以邀请很多朋友，那么赶快联系我们，加入成我们的合作伙伴，每个月至少给您30%的固定分成。",
+				"content": [
+					{
+						"front": "HG6686",
+						"name": "新会员在MG游戏首存赠50%！高额红利，等您来拿 ",
+						"time": "2018/3/27",
+						"src": "innerhuodong7.php"
+					},
+					{
+						"front": "皇冠",
+						"name": "您的盈利，我们免费送您20%，最高可达3888元，双重盈利进行到底！",
+						"time": "2018/3/31",
+						"src": "innerhuodong8.php"
+					},
+					{
+						"front": "HG6686",
+						"name": "转换额度到MG，笔笔赠送20%",
+						"time": "2018/3/31",
+						"src": "innerhuodong9.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "电子游艺负盈利返还20%，最高可获得5888元",
+						"time": "2018/2/26",
+						"src": "innerhuodong10.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "真人视讯，周周返点高达1.0%无上限",
+						"time": "2018/1/15",
+						"src": "innerhuodong5.php"						
+					}
+				]
+			}
+		}
+	],
+	[
+		[
+			{
+				"src": "images/ad-03.gif"
+			},
+			{
+				"src": "images/ad-03.gif"
+			}
+		],
+		{
+			"title": "游戏技巧"
+		},
+		{
+			"left": {
+				"src": ["images/toutiao-1.png", "images/toutiao-2.jpg", "images/toutiao-3.jpg", "images/toutiao-4.jpg"]
+			},
+			"right" : {
+				"title": "邀请朋友一起畅游HG6686可获得高额奖金提成",
+				"meta": "邀请您的朋友一起畅游HG6686，每邀请一位朋友到（HG6686）可得88彩金，邀请的朋友越多，您可以领取的奖金就越多，如果您可以邀请很多朋友，那么赶快联系我们，加入成我们的合作伙伴，每个月至少给您30%的固定分成。",
+				"content": [
+					{
+						"front": "HG6686",
+						"name": "新会员在MG游戏首存赠50%！高额红利，等您来拿 ",
+						"time": "2018/3/27",
+						"src": "innerhuodong7.php"
+					},
+					{
+						"front": "皇冠",
+						"name": "您的盈利，我们免费送您20%，最高可达3888元，双重盈利进行到底！",
+						"time": "2018/3/31",
+						"src": "innerhuodong8.php"
+					},
+					{
+						"front": "HG6686",
+						"name": "转换额度到MG，笔笔赠送20%",
+						"time": "2018/3/31",
+						"src": "innerhuodong9.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "电子游艺负盈利返还20%，最高可获得5888元",
+						"time": "2018/2/26",
+						"src": "innerhuodong10.php"					
+					},
+					{
+						"front": "HG6686",
+						"name": "真人视讯，周周返点高达1.0%无上限",
+						"time": "2018/1/15",
+						"src": "innerhuodong5.php"						
+					}
+				]
+			}
+		}
+	]
+]

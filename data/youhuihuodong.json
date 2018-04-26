@@ -1,0 +1,52 @@
+{
+	"title": "优惠活动",
+	"cardOne":{
+		"src": "images/ad-01.gif"
+	},
+	"cardTwo":{
+		"src": "images/ad-02.gif"
+	},
+	"content": [
+		[
+			{
+				"imgSrc": "images/youhui-01.jpg",
+				"title": "HG6686",
+				"meta": "周周返点高达1.2%无上限",
+				"href": "innerhuodong1.php"
+			},
+			{
+				"imgSrc": "images/youhui-02.jpg",
+				"title": "新会员首存赠送",
+				"meta": "30%彩金",
+				"href": "innerhuodong2.php"
+			},
+			{	
+				"imgSrc": "images/youhui-03.jpg",
+				"title": "再次存款",
+				"meta": "可获得15%彩金",
+				"href": "innerhuodong3.php"
+			}
+		],
+		[
+			{
+				"imgSrc": "images/youhui-04.jpg",
+				"title": "连赢送大礼",
+				"meta": "最高可达88888元",
+				"href": "innerhuodong4.php"
+			},
+			{
+				"imgSrc": "images/youhui-05.jpg",
+				"title": "真人视讯",
+				"meta": "周周返点高达1.0%无上限",
+				"href": "innerhuodong5.php"
+			},
+			{
+				"imgSrc": "images/youhui-06.jpg",
+				"title": "MG电子游艺",
+				"meta": "周周返水2.0%无上限",
+				"href": "innerhuodong6.php"
+			}
+		]
+		
+	]
+}
